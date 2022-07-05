@@ -304,7 +304,7 @@
             
             <div class="swapper__amount">
               <div class="swapper-amount">
-                <div class="swapper-amount__title">Amount11111:</div>
+                <div class="swapper-amount__title">Amount:</div>
 
                 <div class="swapper-amount__field-wrapper">
                   <v-text-field
