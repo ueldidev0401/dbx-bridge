@@ -4,14 +4,6 @@
       <header class="header">
         <div class="header__inner">
           <div class="header__logo">
-            <!-- <a class="logo" href="#">
-              <span class="logo__hover">
-                <img src="/images/general/logo-hover.svg" alt="" />
-              </span>
-              <span class="logo__img">
-                <img src="/images/general/logo.png" alt="" />
-              </span>
-            </a> -->
           </div>
 
           <v-dialog v-model="dialog" max-width="300">
